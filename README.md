@@ -27,5 +27,27 @@
 ![alt text](image-5.png)
 
 **6. Click On "Install"**
+
 **7. click on I Agree**
+
 **8. Now Wait for Downlaod to complete**
+
+**9. After Download Something like following will Appear**
+
+![alt text](image-6.png)
+
+**10. Search** ```Whiteout Survival```
+
+![alt text](image-7.png)
+
+![alt text](image-8.png)
+
+![alt text](image-9.png)
+
+**11. Now Sign in using Your Game account**
+
+**12. After that something like following will Appear**
+
+![alt text](image-10.png)
+
+**13. Install the game**
