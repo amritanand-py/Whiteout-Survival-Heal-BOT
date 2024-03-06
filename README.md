@@ -51,3 +51,13 @@
 ![alt text](image-10.png)
 
 **13. Install the game**
+
+**14. Open the game either click on Play or Game Logo on Your Desktop screen**
+
+**Congrats you have Completed main task as of Now. now few Formality**
+
+**Something like following will appear**
+
+![alt text](image-11.png)
+
+
