@@ -61,11 +61,14 @@
 ![alt text](image-11.png)
 
 
-**15. 
+**15. Now  [Click here](https://github.com/amritanand-py/WhiteOut-Survival-Heal-BOT/blob/main/TAP%20TAP%20TAP.json)**
 
+![alt text](image-14.png)
 
-
+**16. Now click and Download and comeback to Game**
 
 ![alt text](image-12.png)
 
 ![alt text](image-13.png)
+
+**17 Select "Import Macro"**
