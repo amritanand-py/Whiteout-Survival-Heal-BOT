@@ -72,3 +72,27 @@
 ![alt text](image-13.png)
 
 **17 Select "Import Macro"**
+
+![alt text](image-15.png)
+
+**18. Select Downloaded file and Import file**
+
+![alt text](image-16.png)
+
+**19. Now it will appear something like this**
+![alt text](image-17.png)
+
+**20. Open Game Help Menu**
+
+![alt text](image-18.png)
+
+**21. Now Start Macro**
+
+![alt text](image-19.png)
+
+# Thanks for being patience you have unlocked Healing BOT for Your alliance 
+
+
+**+You can't play can use it toghter so i would Recommend to Use Farm accounts as Healing BOT during Battles**
+
+**+ Feel free to reach out to me [STR]Banner Guy for Query or issue**
