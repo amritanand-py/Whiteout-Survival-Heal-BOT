@@ -80,9 +80,11 @@
 ![alt text](image-16.png)
 
 **19. Now it will appear something like this**
+
 ![alt text](image-17.png)
 
 **20. Open Game Help Menu**
+>Alliance-Help
 
 ![alt text](image-18.png)
 
