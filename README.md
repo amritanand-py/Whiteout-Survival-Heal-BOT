@@ -4,6 +4,12 @@
 
 ![alt text](image.png)
 
-2. **2. Search**     ``` BlueStacks 5 Download```
+**2. Search**  ``` BlueStacks 5 Download```
 
 ![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](search.jpg)
+
+![alt text](image-3.png)
