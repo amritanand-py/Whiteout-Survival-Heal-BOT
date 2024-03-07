@@ -1,5 +1,9 @@
 # WhiteOut-Survival-Heal-BOT
 
+**+You cannot play and can use it at same time so i would Recommend to Use Farm accounts as Healing BOT during Battles**
+
+
+
 **1. Open Any Web Browser**
 
 ![alt text](image.png)
@@ -19,7 +23,7 @@
 
 ![alt text](image-4.png)
 
-**4. Double Lft Click on that and click on "YES"**
+**4. Double Click on that and click on "YES"**
 
 ![alt text](<WhatsApp Image 2024-03-06 at 21.25.47_5820c0ab.jpg>)
 
@@ -65,7 +69,7 @@
 
 ![alt text](image-14.png)
 
-**16. Now click and Download and comeback to Game**
+**16. Now click and Download the file  and comeback to Game**
 
 ![alt text](image-12.png)
 
@@ -94,7 +98,5 @@
 
 # Thanks for being patience you have unlocked Healing BOT for Your alliance 
 
-
-**+You can't play can use it toghter so i would Recommend to Use Farm accounts as Healing BOT during Battles**
 
 **+ Feel free to reach out to me [STR]Banner Guy for Query or issue**
